@@ -3,7 +3,7 @@ Hi 👋 My name is Paulo Matheus Pessino Santos
 
 Web Developer Full Stack
 ------------------------
- 
+
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [paulomatheuspessino@gmail.com](mailto:paulomatheuspessino@gmail.com)
 * 🧠  I'm learning Angular and Java Spring
@@ -41,11 +41,3 @@ Web Developer Full Stack
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/matheuspessino"><img src="https://github-readme-stats.vercel.app/api?username=matheuspessino&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="matheuspessino's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/matheuspessino/front-helpr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspessino&repo=front-helpr&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/matheuspessino/helprback" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspessino&repo=helprback&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/matheuspessino/GitHub-app-Dio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspessino&repo=GitHub-app-Dio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/matheuspessino/Naruto-quote-DIo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspessino&repo=Naruto-quote-DIo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
