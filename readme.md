@@ -6,7 +6,7 @@ Web Developer Full Stack
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [paulomatheuspessino@gmail.com](mailto:paulomatheuspessino@gmail.com)
-* 🧠  I'm learning Angular and Java Spring
+* 🧠  I'm learning C# and .NET
 
 ### Skills
 
